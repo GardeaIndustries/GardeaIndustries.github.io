@@ -10,16 +10,18 @@
             href: "https://stelesthetics.net/"
         },
         {
-            name: "Future Project",
+            name: "theshopwindow, LLC",
             icon: "fa-solid fa-list-check",
-            description:
-                "This is the description for a future project",
+            description: 
+                "I played a significant role in helping the business mobilize and get up and running, namely on the website to help drive interest from prospective customers.",
+href: "https://www.theshopwindow.com/"
         },
         {
-            name: "Future Project",
+            name: "Data Science",
             icon: "fa-solid fa-diagram-project",
             description:
-                "This is the description for a future project",
+                "This is a dedicated space for all the scripts and notebooks used in the machine learning models found in the repository.",
+            href: "https://github.com/GardeaIndustries/Machine-Learning"
         },
     ];
 
@@ -116,15 +118,14 @@
             </Step>
             <Step step={steps[1]}>
                 <p>
-
-                    This is the description for a future project.
+                    I played a significant role in helping the business mobilize and get up and running, namely on the website to help drive interest from prospective customers.
                     <!-- <strong class="text-blue-400"></strong> -->
                 </p>
             </Step>
             <Step step={steps[2]}>
                 
                 <p>
-                    This is the description for a future project.
+                   This is a dedicated space for all the scripts and notebooks used in the machine learning models found in the repository.
                     <!-- <strong class="text-blue-400"></strong>-->
                 </p> 
             </Step>
