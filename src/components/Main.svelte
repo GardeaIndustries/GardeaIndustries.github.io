@@ -59,7 +59,7 @@ href: "https://www.theshopwindow.com/"
                 <span class="poppins text-blue-400">Analyst</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
-                Some of <span class="text-blue-400">my skills</span> include: <br />Fron-End Webdevelopment using programming languages like HTML, JavaScript
+                Some of <span class="text-blue-400">my skills</span> include: <br />Front-End Web Development using programming languages like HTML, JavaScript
                 (React or SvelteKit), TailwindCSS, and more!
             </p>
             <button id="myButton"
