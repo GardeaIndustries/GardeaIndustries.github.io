@@ -17,7 +17,7 @@
         </div>
         <p class="mx-auto text-sm opacity-70">or</p>
         -->
-        <p><b class="pr-2">Email:</b> juan.rr0729@gmail.com</p>
+        <p><b class="pr-2">Email:</b><a href="mailto:juan.rr0729@gmail.com"> juan.rr0729@gmail.com</a></p>
         <p>
             <b class="pr-2">GitHub:</b>
             <a href="https://github.com/GardeaIndustries" target="_blank" class="text-blue-400"
