@@ -29,7 +29,7 @@
         </p>
         <p>
             <b class="pr-2">LinkedIn:</b>
-            <a href="https://www.linkedin.com/in/juan-rodriguez-26b39427a/" target="_blank" class="text-blue-400"
+            <a href="https://www.linkedin.com/in/juan-gardea-26b39427a/" target="_blank" class="text-blue-400"
                 >GardeaIndustries<sup class=""
                     ><span class="text-xs scale-75 pl-0.5"
                         ><i
