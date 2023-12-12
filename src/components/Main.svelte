@@ -10,16 +10,18 @@
             href: "https://stelesthetics.net/"
         },
         {
-            name: "Future Project",
+            name: "theshopwindow, LLC",
             icon: "fa-solid fa-list-check",
-            description:
-                "This is the description for a future project",
+            description: 
+                "I played a significant role in helping the business mobilize and get up and running, namely on the website to help drive interest from prospective customers.",
+href: "https://www.theshopwindow.com/"
         },
         {
-            name: "Future Project",
+            name: "Data Science",
             icon: "fa-solid fa-diagram-project",
             description:
-                "This is the description for a future project",
+                "This is a dedicated space for all the scripts and notebooks used in the machine learning models found in the repository.",
+            href: "https://github.com/GardeaIndustries/Machine-Learning"
         },
     ];
 
@@ -57,12 +59,12 @@
                 <span class="poppins text-blue-400">Analyst</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
-                Some of <span class="text-blue-400">my skills</span> include: <br />Fron-End Webdevelopment using programming languages like HTML, JavaScript
+                Some of <span class="text-blue-400">my skills</span> include: <br />Front-End Web Development using programming languages like HTML, JavaScript
                 (React or SvelteKit), TailwindCSS, and more!
             </p>
             <button id="myButton"
                 class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950"
-            ><a href="https://www.linkedin.com/in/juan-rodriguez-26b39427a/" target="_blank">
+            ><a href="https://www.linkedin.com/in/juan-gardea-26b39427a/" target="_blank">
                 <div
                     class="absolute top-0 right-full w-full h-full bg-blue-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
                 />
@@ -116,15 +118,14 @@
             </Step>
             <Step step={steps[1]}>
                 <p>
-
-                    This is the description for a future project.
+                    I played a significant role in helping the business mobilize and get up and running, namely on the website to help drive interest from prospective customers.
                     <!-- <strong class="text-blue-400"></strong> -->
                 </p>
             </Step>
             <Step step={steps[2]}>
                 
                 <p>
-                    This is the description for a future project.
+                   This is a dedicated space for all the scripts and notebooks used in the machine learning models found in the repository.
                     <!-- <strong class="text-blue-400"></strong>-->
                 </p> 
             </Step>
