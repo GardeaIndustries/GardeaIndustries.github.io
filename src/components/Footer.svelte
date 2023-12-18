@@ -1,6 +1,15 @@
 <footer
-    class="py-20 sm:py-32 bg-black border-t border-solid border-blue-950 flex flex-col gap-4 sm:gap-8 justify-center items-center"
->
+    class="py-20 sm:py-32 bg-black border-t border-solid border-blue-950 flex flex-col gap-4 sm:gap-8 justify-center items-center">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J560TP1V7H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J560TP1V7H');
+</script>
+<!-- Google tag (gtag.js) -->
     <p class="px-4 py-2 bg-white text-slate-950 font-medium">
         Connect with me &darr;
     </p>

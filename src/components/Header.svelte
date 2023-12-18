@@ -8,6 +8,16 @@
 </script>
 
 <header class={'sticky z-[10] top-0 duration-200 px-6 flex items-center justify-between border border-solid ' + (y>0 ? ' py-4 bg-slate-950 border-blue-950' : ' py-6 bg-transparent border-transparent')}>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J560TP1V7H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J560TP1V7H');
+</script>
+<!-- Google tag (gtag.js) -->
     <h1>
         <b class="font-bold poppins">Juan</b> Gardea
     </h1>
