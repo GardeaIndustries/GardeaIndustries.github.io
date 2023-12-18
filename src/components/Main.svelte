@@ -59,8 +59,8 @@ href: "https://www.theshopwindow.com/"
                 <span class="poppins text-blue-400">Analyst</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
-                Some of <span class="text-blue-400">my skills</span> include: <br />Front-End Web Development using programming languages like HTML, JavaScript
-                (React or SvelteKit), TailwindCSS, and more!
+                I specialize in uncovering  meaningful insights from diverse datasets <br /> by crafting narratives that drive <span class="text-blue-400">innovative solutions.</span>
+                <br />Let's collaborate to elevate your projects with a fusion of web development finesse and data-driven creativity for enhanced outcomes.
             </p>
             <button id="myButton"
                 class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950"
@@ -74,7 +74,7 @@ href: "https://www.theshopwindow.com/"
         </div>
         <div class="relative shadow-2xl grid place-items-center">
             <img
-                src={"images/about.png"}
+                src={"images/gardea1.png"}
                 alt="Zetane Engine"
                 class="object-cover z-[2] max-h-[70vh]"
             />
