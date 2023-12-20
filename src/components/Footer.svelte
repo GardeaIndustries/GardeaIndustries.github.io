@@ -30,7 +30,7 @@
         <p>
             <b class="pr-2">GitHub:</b>
             <a href="https://github.com/GardeaIndustries" target="_blank" class="text-blue-400"
-                >GardeaIndustries<sup class=""
+                >Juan Rodriguez<sup class=""
                     ><span class="text-xs scale-75 pl-0.5"><i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"/></span
                     ></sup
                 ></a
@@ -38,8 +38,8 @@
         </p>
         <p>
             <b class="pr-2">LinkedIn:</b>
-            <a href="www.linkedin.com/in/juan-rodriguez-26b39427a" target="_blank" class="text-blue-400"
-                >GardeaIndustries<sup class=""
+            <a href="https://www.linkedin.com/in/juan-rodriguez-26b39427a/" target="_blank" class="text-blue-400"
+                >Juan Rodriguez<sup class=""
                     ><span class="text-xs scale-75 pl-0.5"
                         ><i
                             class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
